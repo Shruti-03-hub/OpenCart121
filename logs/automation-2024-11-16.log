@@ -1,0 +1,72 @@
+11:58:53.739 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\grouping.xml"
+11:58:54.297 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\grouping.xml
+
+11:59:13.277 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\grouping.xml"
+11:59:13.819 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\grouping.xml
+
+12:00:00.943 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\grouping.xml"
+12:00:01.492 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\grouping.xml
+
+12:02:15.963 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\grouping.xml"
+12:02:16.510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\grouping.xml
+
+12:02:41.263 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\grouping.xml"
+12:02:41.825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\grouping.xml
+
+12:02:48.901 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Execution Started********
+12:02:56.645 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Home Page complete********
+12:03:05.761 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** enter all details in registration page********
+12:03:05.761 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** validating confirm msg********
+13:03:34.321 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\master.xml"
+13:03:34.968 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\master.xml
+
+13:03:47.248 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Execution Started********
+13:03:55.640 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Home Page complete********
+13:04:06.203 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** enter all details in registration page********
+13:04:06.204 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** validating confirm msg********
+13:05:05.415 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\master.xml"
+13:05:05.918 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\master.xml
+
+13:05:13.510 [main] INFO  testCases.TC_002_LoginTest - ***** Starting LoginTest*****
+13:18:23.250 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\master.xml"
+13:18:23.855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\master.xml
+
+13:18:35.671 [main] INFO  testCases.TC_002_LoginTest - ***** Starting LoginTest*****
+12:51:03.045 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\master.xml"
+12:51:03.766 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\master.xml
+
+12:51:20.877 [main] INFO  testCases.TC_002_LoginTest - ***** Starting LoginTest*****
+15:21:48.216 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\master.xml"
+15:21:48.852 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\master.xml
+
+15:22:02.351 [main] INFO  testCases.TC_002_LoginTest - ***** Starting LoginTest*****
+15:22:06.293 [main] INFO  testCases.TC_002_LoginTest - ***** Finished LoginTest*****
+15:22:47.508 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\master.xml"
+15:22:48.138 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\master.xml
+
+15:22:58.827 [main] INFO  testCases.TC_002_LoginTest - ***** Starting LoginTest*****
+15:23:01.368 [main] INFO  testCases.TC_002_LoginTest - ***** Finished LoginTest*****
+15:23:07.068 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Execution Started********
+15:23:15.344 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Home Page complete********
+15:23:20.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** enter all details in registration page********
+15:23:20.910 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** validating confirm msg********
+15:23:54.119 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\master.xml"
+15:23:54.939 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\master.xml
+
+15:26:52.146 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\master.xml"
+15:26:52.700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation_Framework\OpencartV121\master.xml
+
+16:04:26.936 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation_Framework\OpencartV121\master.xml"

@@ -1,0 +1,2 @@
+cd C:\Automation_Framework\OpencartV121
+mvn test
